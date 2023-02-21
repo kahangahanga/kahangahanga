@@ -13,7 +13,7 @@
 <div align="center">
   <img src="./divider1.png" alt="divider"/>
 </div> 
-<h3 align="center"><img src="./code.gif" height="20"/> Here are my skills</h3>
+<h3 align="center"><img src="./code.gif" height="20"/> Here are my skills <img src="./code.gif" height="20"/></h3>
   <table>
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
