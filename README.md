@@ -98,7 +98,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1055730403702476833" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/blockchainengineer0408" target="_blank" rel="noopener noreferrer"><img src="https://www.pngkit.com/png/detail/897-8972864_telegram-telegram-logo-png.png" alt="Telegram" width="50"></a>
+  <a href="https://t.me/blockchainengineer0408" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/telegram-app.png" alt="Telegram" width="50"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <a href="https://brilliantdev.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a> -->
 </p>
