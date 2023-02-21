@@ -11,7 +11,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
 <div align="center">
-  <img src="https://www.pngfind.com/pngs/m/89-898889_leaf-divider-png-leaves-divider-black-and-white.png" alt="divider"/>
+  <img src="./divider1.png" alt="divider"/>
 </div> 
 <h3 align="center"><img src="./code.gif" height="20"/> Here are my skills</h3>
   <table>
@@ -67,7 +67,7 @@
     </tr>
   </table>
 <div align="center">
-  <img src="https://www.pngfind.com/pngs/m/89-898889_leaf-divider-png-leaves-divider-black-and-white.png" alt="divider"/>
+  <img src="./divider2.png" alt="divider"/>
 </div> 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
@@ -83,7 +83,7 @@
   </a>
 </p>
 <div align="center">
-  <img src="https://www.pngfind.com/pngs/m/89-898889_leaf-divider-png-leaves-divider-black-and-white.png" alt="divider"/>
+  <img src="./divider2.png" alt="divider"/>
 </div> 
   <h2 align="center">
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
