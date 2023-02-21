@@ -1,17 +1,17 @@
-[<h1 align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Hi, Nice to meet you.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h3 align="center">
-  I am a Senior Full Stack Developer.
+  I am a Senior Full Stack & Blockchain & Mobile App Developer.
 </h3>
 <br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
 <div align="center">
-  <img src="./divider1.png" alt="divider"/>
+  <img src="https://www.pngfind.com/pngs/m/89-898889_leaf-divider-png-leaves-divider-black-and-white.png" alt="divider"/>
 </div> 
 <h3 align="center"><img src="./code.gif" height="20"/> Here are my skills</h3>
   <table>
@@ -67,7 +67,7 @@
     </tr>
   </table>
 <div align="center">
-  <img src="./divider2.png" alt="divider"/>
+  <img src="https://www.pngfind.com/pngs/m/89-898889_leaf-divider-png-leaves-divider-black-and-white.png" alt="divider"/>
 </div> 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
@@ -83,7 +83,7 @@
   </a>
 </p>
 <div align="center">
-  <img src="./divider2.png" alt="divider"/>
+  <img src="https://www.pngfind.com/pngs/m/89-898889_leaf-divider-png-leaves-divider-black-and-white.png" alt="divider"/>
 </div> 
   <h2 align="center">
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
