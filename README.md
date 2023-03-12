@@ -71,7 +71,7 @@
 </div> 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brilliantseniordev&column=7&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&column=7&theme=onedark"/>
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brilliantseniordev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
