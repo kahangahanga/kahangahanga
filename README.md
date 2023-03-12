@@ -74,12 +74,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&column=7&theme=onedark"/>
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=brilliantseniordev&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist0404&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alchemist0404&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full-Stack%20developer%20%2C%20Blockchain%20Master%20%2C%20Mobile%20App%20Expert;8+%2B%20years%20of%20working%20experience%20with%20the%20professional%20growth%20of%20technology&width=862&height=45">
   </a>
 </p>
 <div align="center">
